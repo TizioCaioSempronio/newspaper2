@@ -1,0 +1,29 @@
+header {background-color: #FFCC66;
+	    font-size: 80px;
+		text-transform: uppercase;}
+
+img	{max-height: 100%;
+     max-width: 100%;
+     padding: 12px 0 12px 0;}
+	    
+.content {background-color: #FFCC66;
+	      column-count: 3;
+          font-size: 22px;
+          font-family: arial;
+          padding: 12px 0 12px 0;
+          text-align: justify;}
+		
+.head { 
+	   text-align: center;
+	   position: relative;
+}
+	
+
+.subhead { background-color: #FFCC66;
+	border-bottom: 4px solid #000; 
+	border-top: 4px solid #000;
+	font-family: arial;
+	font-size: 36px;
+	padding: 12px 0 12px 0;
+	text-transform: uppercase;
+}
